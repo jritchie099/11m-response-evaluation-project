@@ -14,7 +14,7 @@
 
 ## Dataset
 
-- **200+** evaluated AI responses
+- Evaluation dataset currently in development
 - Multiple evaluation categories
 - Structured CSV dataset
 - Documented evaluation criteria
